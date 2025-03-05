@@ -1,0 +1,1 @@
+Deployed in https://jogo-numero-secreto-tan-tau.vercel.app/
